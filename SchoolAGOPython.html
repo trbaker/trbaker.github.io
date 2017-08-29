@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>ARCGIS ONLINE PYTHON TOOLS FOR SCHOOLS</title>
+        <meta name="description" content="An interactive getting started guide.">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        
+        <h1>ARCGIS ONLINE PYTHON TOOLS FOR SCHOOLS</h1>
+        <h2>This is your guide!</h2>
+        
+        <p>
+            Welcome! These scripts help school teachers, IT staff, and tech leaders manage school organizations in a faster, more automated way. These scripts require that several software packages be installed.  We stonrgly recommend exploring the <a href="https://marketplace.arcgis.com/listing.html?id=c34019b0623041608df4d06970a7a96a" target="new">Geo Jobe Admin Toools</a> (at least the free version) before attempting to use the scripts below.
+        </p>
+        
+        <!--
+            WHAT IS PYTHON?
+        -->
+        <p>
+            <em>Python is an open-source scripting language.</em>
+            
+            Python is a scripting language that allows you to automate tasks, create visualizations, or manage services (like ArcGIS Online).
+            Python is extremely flexible and used in countless ways. Python is written in an editor (like notepad) and then run (or compiled). Python is case-sensitive. It also uses spaces and tabs to understand how to process your scripting - so no errant capitalization or spacing. The web has numerous references for Python but be careful - Python 2 and 3 have some critical differences. Always know what version of code you are looking at.  Lastly, many scripters make comments inside of code to teall themselves or readers what a script can do.  Look for the pound sign/hastag (#) to indicate a comment - a line of text ignored during code compilation. The workflow and scripts below with run on PC, Mac or Linux - with or without any other ArcGIS or Esri tool installed.
+            
+        </p>
+        <h2>Setting It Up</h2>
+        
+        <P>
+            Python 3 is the foundation of the scripts used in the guide but you'll need other tools as well. Download and install software in the order listed below.
+            
+             <ul>
+                 <li><a href="https://www.python.org">Download and install Python 3</a> <em>(at the time of writing the version was 3.6.2)</em></li>
+        </ul>    
+        </p>
+        <P>
+        Conda (also Anaconda) is a popular package and manager application that helps you install and update Python software packages. 
+        </P>
+                     <ul>
+                 <li><a href="https://www.anaconda.com/download/" target="new">Download and install the latest version of Anaconda for Python 3x</a> </li>
+        </ul> 
+        <p>
+            The ArcGIS API for Python (<a href="https://developers.arcgis.com/python/" target="new">learn more</a>) is software that allows for communication between our Python scripts and ArcGIS Online. It too is a software package that must be installed - although now you can use Conda to install the software using a Terminal or Command window! If you are running a Windows OS, you can type this into your command prompt or PowerShell. If you are running a Mac or Linux OS, you can type this into your Terminal application. 
+            <UL>
+                <LI><kbd>conda install -c esri arcgis</kbd></LI>
+            </UL>
+        </p>
+        <P>
+            The Jupyter Notebook environment (<a href="http://jupyter.org" target="new">learn more</a>) lets you run Python code in an interactive manner and visualize the output as maps and charts. Think of it as scripting in a web browser. Once conda and the ArcGIS API for Python is installed, you can start the Jupyter Notebook environment by typing the following command in your terminal. <em>(Watch the spelling.)</em>
+            
+            <ul>
+                <li><kbd>jupyter notebook</kbd></li>
+            </ul>
+        </p>
+        
+        <h2>Testing It</h2>
+<p>From the Jupyter Notebook dashboard:
+    <ul>
+    <LI>Create a new Python 3 notebook.
+    
+    <LI>Type these lines of code. 
+        
+        <ul>
+        <li><kbd>from arcgis.gis import GIS<br />
+gis = GIS()<br />
+gis.map()   </kbd> </li>
+        </ul>
+        <li>Run the code by pressing the button with "Play" icon (left of button with black square). Your output should look like:</li>
+    <img align="center" src="http://esri.github.io/arcgis-python-api/notebooks/nbimages/guide_getstarted_InstallAndSetup_02.PNG">
+        
+        </p>
+
+
+        <h2>The ArcGIS Online Python Tools for Schools</h2>
+        <p>
+            These scripts are offered as-is and without guarantee of functionality or support. Most of the scripts are designed to create, change, or delete multiple user accounts or items at once. Read the documentation and comments within the scripts before running.  You must have an administrator-levvel account in the organization to run the scripts. 
+        </p>
+    <p>
+        Jupyter Notebook files use the extension *.ipynb while traditional Python scripts use *.py . Download the ipynb files below and then open them in your Jupyter Notebook. You will need to add credentials and other parameters to these scripts before running.
+        </p>
+        
+        <ul>
+            <LI>User Management</LI>
+            <ul>
+            <li><a href="https://github.com/trbaker/AGO-Create-100-Students">Create student accounts in bulk</a></li>
+            <li><a href="https://github.com/trbaker/AGO-Delete-Users">Delete all accounts of a selected role type</a> <em>(transfers content to specific admin account)</em></li>
+                
+            </ul>
+            <LI>Content Management
+                <ul>
+            <li><a href="">Delete all content from all accounts of a selected role type</a> <em>(does not delete accounts)</em></li>
+                <LI>Create a copy of Esri instructional materials for schools in your organization</LI>
+                </ul>
+        </ul>
+    
+        <h2>Need help?</h2>
+        <p>
+            This guide is a subset of the complete installationa and set-up guide from Esri. For full documentation, visit the <a href="https://developers.arcgis.com/python/guide/" target="new">ArcGIS API for Python Guide</a>.
+        </p>
+    
+    </body>
+</html>
+
+
+
