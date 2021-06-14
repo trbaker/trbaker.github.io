@@ -1,6 +1,6 @@
 # @Tom
 
-I'm guessing you're lost becuase no one comes here. Here are the top few items people are looking for.
+I'm guessing you're lost as no one comes here. Maybe you are lookiing for one of these:
 
 <ol>
   <LI><a href="https://trbaker.github.io/GIStandards">GIS in K12 Standards</a>
