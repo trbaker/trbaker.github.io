@@ -9,4 +9,4 @@ I'm guessing you're lost as no one comes here. Maybe you are lookiing for one of
   
   <ol>
 
-    <img alt="ORCID" align="center" src="QR_code_ORCID.png" />
+    <img alt="ORCID" align="center" src="QR-code_ORCID.png" />
