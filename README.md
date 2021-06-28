@@ -8,3 +8,5 @@ I'm guessing you're lost as no one comes here. Maybe you are lookiing for one of
       <LI><a href="https://github.com/trbaker/TEFS_IOT">Tech-enabled Field Studies content</a>
   
   <ol>
+
+    <img alt="ORCID" align="center" src="QR_code_ORCID.png" />
