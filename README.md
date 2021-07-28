@@ -7,7 +7,7 @@ Tools and applications hosted (or partially hosted) here:
       <LI><a href="https://github.com/trbaker/TEFS_IOT">Tech-enabled Field Studies content</a>
         <LI><a target="new" href="https://esriurl.com/namebadge">GIS (learner) name badge</a>
   </ul>
-        
+<br />
 Other useful GIS in Education links:
         <UL>
         <LI><a target="new" href="https://esri.com/education">Esri Education</a>
