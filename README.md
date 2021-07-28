@@ -8,7 +8,13 @@ Tools and applications hosted (or partially hosted) here:
       <LI><a href="https://github.com/trbaker/TEFS_IOT">Tech-enabled Field Studies content</a>
         <LI><a target="new" href="https://eseriurl.com/namebadge">GIS (learner) name badge</a>
   
-  <ol>
-
+  </ol>
+Other useful GIS in Education links:
+        <UL>
+          <LI><a target="new" href="https://esri.com/education">Esri Education</a>
+            <LI><a target="new" href="https://esriurl.com/tvc">Esri's Teacher Video Challenge</a>
+              
+          </Ol>
+        
 <br><br>
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5005-9663" href="https://orcid.org/0000-0002-5005-9663" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5005-9663</a></div>
