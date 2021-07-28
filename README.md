@@ -1,18 +1,17 @@
 # Tom Baker, Esri Education Team
 
 Tools and applications hosted (or partially hosted) here:
-
 <ul>
   <LI><a href="https://trbaker.github.io/GIStandards">GIS in K12 Standards</a>
     <LI><a href="ADI">Public info about ArcGIS Online Schools
       <LI><a href="https://github.com/trbaker/TEFS_IOT">Tech-enabled Field Studies content</a>
         <LI><a target="new" href="https://eseriurl.com/namebadge">GIS (learner) name badge</a>
-  
   </ul>
+        
 Other useful GIS in Education links:
         <UL>
-          <LI><a target="new" href="https://esri.com/education">Esri Education</a>
-            <LI><a target="new" href="https://esriurl.com/tvc">Esri's Teacher Video Challenge</a>
+        <LI><a target="new" href="https://esri.com/education">Esri Education</a>
+         <LI><a target="new" href="https://esriurl.com/tvc">Esri's Teacher Video Challenge</a>
               
  </ul>
         
