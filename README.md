@@ -1,4 +1,4 @@
-# My collection of misfit toys
+# My Island of Misfit Toys
 ### Tom Baker, Esri Education Team
 
 Tools and applications hosted (or partially hosted) here:
