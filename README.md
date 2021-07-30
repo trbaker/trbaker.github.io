@@ -1,14 +1,13 @@
 # My Island of Misfit Toys
 ### Tom Baker, Esri Education Team
 
-Tools and applications hosted (or partially hosted) here:
+Tools and applications hosted here, for exuberant teachers:
 
  - <a href="GIStandards">GIS in K12 Standards</a>
-- <a href="ADI">Public info about ArcGIS Online Schools</a>
+- <a href="ADI">Public info about ArcGIS Online in Schools</a>
 - <a href="https://github.com/trbaker/TEFS_IOT">Tech-enabled Field Studies (book) content</a>
 - <a target="new" href="https://esriurl.com/namebadge">GIS (learner) name badge creator</a>
 - <a target="new" href="https://trbaker.github.io/storyMapReadability/">ArcGIS Sotrymap Flesch-Kincaid Readability scoring</a>
-- developer: Convert a <a href="https://github.com/trbaker/create-ArcGIS-Online-Items">Survey123 attachment into a first-class ArcGIS Online item</a>
  
 <br />
 Other useful GIS in Education links:
