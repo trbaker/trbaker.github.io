@@ -10,7 +10,7 @@ Tools and applications hosted here, for exuberant teachers:
 - <a target="new" href="https://trbaker.github.io/storyMapReadability/">ArcGIS Sotrymap Flesch-Kincaid Readability scoring</a>
  
 <br />
-Other useful GIS in Education links:
+Other useful GIS in education links:
 
 - <a target="new" href="https://esri.com/education">Esri Education</a>
 - <a target="new" href="https://esriurl.com/tvc">Esri's Teacher Video Challenge</a>
