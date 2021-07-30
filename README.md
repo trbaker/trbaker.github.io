@@ -5,7 +5,9 @@ Tools and applications hosted (or partially hosted) here:
  - <a href="https://trbaker.github.io/GIStandards">GIS in K12 Standards</a>
 - <a href="ADI">Public info about ArcGIS Online Schools</a>
 - <a href="https://github.com/trbaker/TEFS_IOT">Tech-enabled Field Studies content</a>
-- <a target="new" href="https://esriurl.com/namebadge">GIS (learner) name badge</a>
+- <a target="new" href="https://esriurl.com/namebadge">GIS (learner) name badge creator</a>
+- <a target="new" href="https://trbaker.github.io/storyMapReadability/">ArcGIS Sotrymap Flesch-Kincaid Readability scoring</a>
+- Convert a <a href="">Survey123 attachment into a first-class ArcGIS Online item</a>
  
 <br />
 Other useful GIS in Education links:
