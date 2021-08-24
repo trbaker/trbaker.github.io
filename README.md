@@ -9,7 +9,7 @@ Tools and applications hosted here, for exuberant teachers:
 - <a target="new" href="https://esriurl.com/namebadge">GIS (learner) name badge creator</a>
 - <a target="new" href="https://trbaker.github.io/storyMapReadability/">ArcGIS Sotrymap readability scoring</a>
 - <a href="https://storymaps-k12.hub.arcgis.com/" target="new">First draft proof of concept for storymap indexing against a dictionary</a>
-- <a href+https://trbaker.github.io/cloning/" target="new">Copy a public feature service to your ArcGIS account</a>
+- <a href="https://trbaker.github.io/cloning/" target="new">Copy a public feature service to your ArcGIS account</a>
  
 <br />
 Other useful GIS in education links:
