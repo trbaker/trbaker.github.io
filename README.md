@@ -1,5 +1,5 @@
 # My island of misfit toys
-### Tom Baker, Esri Education Team
+### Tom R. Baker, Esri Education Team
 
 Tools and applications hosted here, for exuberant teachers:
 
