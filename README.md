@@ -15,7 +15,6 @@ Other useful GIS in education links:
 
 - <a target="new" href="https://esri.com/education">Esri Education</a>
 - <a target="new" href="https://esriurl.com/tvc">Esri's Teacher Video Challenge</a>
-- <a target="new" href="https://tbaker.com/scholarly/">My academic homepage</a>
               
 
 <br><br>
