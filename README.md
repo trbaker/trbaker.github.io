@@ -11,6 +11,7 @@ Tools and applications hosted here, for exuberant teachers:
 - Cloning ArcGIS Online content:
      - <a href="https://trbaker.github.io/cloning/" target="new">Clone a public ArcGIS Online item</a>
      - <a href="https://trbaker.github.io/userClone/" target="new">User Content Clone (v. 1)</a>
+     - <a target="new" href="https://esriurl.com/clone">User content clone</a> - form, no SSO, archives storymaps
  
 <br />
 Other useful GIS in education links:
