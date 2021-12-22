@@ -6,7 +6,9 @@ Tools and applications hosted here, for exuberant teachers:
  - <a href="GIStandards">GIS in US K12 Standards</a>
 - <a href="ADI">Public info about ArcGIS Online in select US Schools</a>
 - <a target="new" href="https://esriurl.com/namebadge">GIS (learner) name badge creator</a>
-- <a target="new" href="https://trbaker.github.io/storyMapReadability/">ArcGIS Sotrymap readability scoring</a>
+- ArcGIS Storymap tools for teachers
+     - <a href="https://storymaps.arcgis.com/stories/fa6465dc331f44eba7b90d5a4eaea4f7" target="new">Self-assessment item builder</a>
+     - <a target="new" href="https://trbaker.github.io/storyMapReadability/">ArcGIS Sotrymap readability scoring</a>
 - <a href="https://storymaps-k12.hub.arcgis.com/" target="new">First draft proof of concept for storymap indexing against a dictionary</a>
 - Cloning ArcGIS Online content:
      - <a href="https://trbaker.github.io/cloning/" target="new">Clone a public ArcGIS Online item</a>
