@@ -8,9 +8,10 @@ Tools and applications hosted here, for exuberant teachers:
 - <a target="new" href="https://esriurl.com/namebadge">GIS (learner) name badge creator</a>
 - ArcGIS Storymap lab
      - <a href="https://storymaps.arcgis.com/stories/fa6465dc331f44eba7b90d5a4eaea4f7" target="new">Self-assessment item builder</a>
-      - <a target="new" href="https://storymaps.arcgis.com/stories/9258460737ca47d8b961965a9bf736fa">Blending Storymaps with Survey123 (blog and sample)</a>
+     - <a target="new" href="https://storymaps.arcgis.com/stories/9258460737ca47d8b961965a9bf736fa">Blending Storymaps with Survey123 (blog and sample)</a>
      - <a target="new" href="https://trbaker.github.io/storyMapReadability/">ArcGIS Sotrymap readability scoring</a>
-      - <a href="https://trbaker.github.io/arclessons" target="new">Storymap indexing against a dictionary (published metadata and search)</a>
+     - <a href="https://trbaker.github.io/arclessons" target="new">Storymap indexing against a dictionary (published metadata and search)</a>
+     - 3D imagery in Storymaps (sampe 1, <a href="https://storymaps.arcgis.com/stories/573f0c70aefa446eb0eb71ab6602b1e0" target="new">sample 2 terrain</a>)
 - Cloning ArcGIS Online content
      - <a href="https://trbaker.github.io/cloning/" target="new">Clone a public ArcGIS Online item</a>
      - <a target="new" href="https://esriurl.com/clone">User content clone</a> - form, no SSO
