@@ -13,6 +13,8 @@ Tools and applications hosted here, for exuberant teachers:
      - <a href="https://trbaker.github.io/arclessons" target="new">Storymap indexing against a dictionary (published metadata and search)</a>
      - 3D objects and images in Storymaps (sampe 1, <a href="https://storymaps.arcgis.com/stories/573f0c70aefa446eb0eb71ab6602b1e0" target="new">sample 2 terrain</a>)
      - <a href="https://storymaps.arcgis.com/stories/8f7d84cff1dc4a17a4503cfcca4e058f" target="new">H5P interactive content in Storymaps (blog)</a>
+     - <a href="https://esriurl.com/geoquests" target="new">GeoQuests</a>: combine maps, storymaps, and quizzes for students
+     - 
 - Cloning ArcGIS Online content
      - <a href="https://trbaker.github.io/cloning/" target="new">Clone a public ArcGIS Online item</a>
      - <a target="new" href="https://esriurl.com/clone">User content clone</a> - form, no SSO
