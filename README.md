@@ -17,7 +17,10 @@ Tools and applications hosted here, for exuberant teachers:
      - <a href="https://esriurl.com/geoquests" target="new">GeoQuests</a>: combine maps, storymaps, and quizzes for students
 - Other experimental/prototypical projects
      - <a href="https://arcg.is/aWuTq" target="new">Google Sheets w/ live link to map viewer</a> (housed in a storymap)
-     - Linking <a href="https://k12.maps.arcgis.com/home/item.html?id=9f1ca54b4cc944d9b410d2879f948bbd" target="new">map markers to 360 VR YouTube videos</a>   
+- GeoVR/GeoAR lab
+  - Linking <a href="https://k12.maps.arcgis.com/home/item.html?id=9f1ca54b4cc944d9b410d2879f948bbd" target="new">map markers to 360 VR YouTube videos</a>   
+  - <a target="new" href="https://arcg.is/mOCei">VR sample gallery</a>
+  - 
 - Cloning ArcGIS Online content
      - <a href="https://trbaker.github.io/cloning/" target="new">Clone a public ArcGIS Online item</a>
      - <a target="new" href="https://esriurl.com/clone">User content clone</a> - form, no SSO
