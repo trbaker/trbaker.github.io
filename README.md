@@ -20,7 +20,7 @@ Tools and applications hosted here, for exuberant teachers:
 - GeoVR/GeoAR lab
   - Linking <a href="https://k12.maps.arcgis.com/home/item.html?id=9f1ca54b4cc944d9b410d2879f948bbd" target="new">map markers to 360 VR YouTube videos</a>   
   - <a target="new" href="https://arcg.is/mOCei">VR sample gallery</a>
-  - 
+
 - Cloning ArcGIS Online content
      - <a href="https://trbaker.github.io/cloning/" target="new">Clone a public ArcGIS Online item</a>
      - <a target="new" href="https://esriurl.com/clone">User content clone</a> - form, no SSO
