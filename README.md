@@ -1,6 +1,8 @@
 # My island of misfit toys
 ### Tom R. Baker, Esri Education Team
 
+All apps below and many more are now discoverable from <a target="new" href="https://tbaker.maps.arcgis.com/apps/instant/filtergallery/index.html?appid=e09eb6cb866740ec9c42c86773ab4de3">my Education Prototype "Lab" space</a>. 
+
 Tools and applications hosted here, for exuberant teachers:
 
  - <a href="GIStandards">GIS in US K12 Standards</a>
