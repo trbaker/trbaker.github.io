@@ -27,14 +27,7 @@ Tools and applications hosted here, for exuberant teachers:
 - Cloning ArcGIS Online content
      - <a href="https://trbaker.github.io/cloning/" target="new">Clone a public ArcGIS Online item</a>
      - <a target="new" href="https://esriurl.com/clone">User content clone</a> - form, no SSO
-     - <a target="new" href="https://community.esri.com/t5/education-blog/duplicating-a-templated-storymap-for-a-learner/ba-p/1153547">Duplicating a storymap template</a>
-     
-<br />
-Other useful GIS in education links:
-
-- <a target="new" href="https://esri.com/education">Esri Education</a>
-- <a target="new" href="https://esriurl.com/tvc">Esri's Teacher Video Challenge</a>
-              
+     - <a target="new" href="https://community.esri.com/t5/education-blog/duplicating-a-templated-storymap-for-a-learner/ba-p/1153547">Duplicating a storymap template</a>            
 
 <br><br>
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5005-9663" href="https://orcid.org/0000-0002-5005-9663" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5005-9663</a></div>
