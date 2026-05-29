@@ -1,4 +1,4 @@
-# Tom R. Baker, Esri Education Team
+# Stuff I made or AI made
 
 Tools and applications hosted here, for exuberant teachers:
 
