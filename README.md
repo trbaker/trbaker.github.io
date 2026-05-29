@@ -12,17 +12,17 @@
      - <a target="new" href="https://esriurl.com/clone">User content clone</a> - form, no SSO
      - <a target="new" href="https://community.esri.com/t5/education-blog/duplicating-a-templated-storymap-for-a-learner/ba-p/1153547">Duplicating a storymap template</a>            
 
-GPX/CSV to map:
+- GPX/CSV to map:
      <LI><a href="/data_vibe/arcgis-publisher.html">Publish a feature service from a CSV/GPX</a>
      <LI><a href="/Atlas_Vibe/geo-sketch-viewer.html">GPS data to MapMaker sketch</a>
 
-Atlas-MapMaker specific:
+- Atlas-MapMaker specific:
      <LI><a href=https://trbaker.github.io/Atlas_Vibe/mapmaker-tagger.html">MapMaker Map Tagger</a>
      <LI><a href="/Atlas_Vibe/atlas-creator.html">Schools Atlas Creator</a>
      <LI><a href="/Atlas_Vibe/geo-sketch-viewer.html">GPS data to MapMaker sketch</a>
      <LI><a href="/Atlas_Vibe/mapmaker-gallery.html">Schools Living Atlas Explorer</a>
      
-2026, others:
+- 2026, others:
      - <a href="/20260508_map/geotag-explorer.html">Image geotag reviewer</a>
      - <a href="/20260508_map/test4/globe-explorer.html">Global Explorer with file upload</a>
      - <a href="/20260508_map/test1/spreadsheet-map-viewer.html">Basic spreadsheet mapper</a>
