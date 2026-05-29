@@ -9,7 +9,7 @@
 
 - Cloning ArcGIS Online content
      - <a href="https://trbaker.github.io/cloning/" target="new">Clone a public ArcGIS Online item</a>
-     - <a target="new" href="https://community.esri.com/t5/education-blog/duplicating-a-templated-storymap-for-a-learner/ba-p/1153547">Duplicating a storymap template</a>            
+     -            
 
 - GPX/CSV to map
      - <a href="/data_vibe/arcgis-publisher.html">Publish a feature service from a CSV/GPX</a>
