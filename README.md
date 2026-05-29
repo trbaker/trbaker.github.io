@@ -1,4 +1,4 @@
-# Tom R. Baker, Esri Education
+# Tom R. Baker, Esri Education 
 
 - Tools and applications hosted here, for exuberant teachers
    - <a href="/GIStandards">GIS in US K12 Standards</a>
