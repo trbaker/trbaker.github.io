@@ -1,4 +1,4 @@
-## https://trbaker.github.io   - v.4
+## https://trbaker.github.io   - v.5
 <ul>
 <LI>Tools for teachers
    <ul>
@@ -25,45 +25,47 @@
 <LI>Images
 <ul>
    <LI><a href="/imageTools/editor.html" target="new">Web-based image editor</a>
-   <LI><a href="/360" target="new">360 degree image tools</a>
+   <LI><a href="/360" target="new">360 degree image tools</a></LI>
    <LI><a href="/20260508_map/geotag-explorer.html" target="new">Image geotag explorer</a></LI>
 </ul>
+   
 <LI>Learning games
 <ul>
    <LI><a href="/learning_games_kindergarten/" target="new">Kindergarten</a></LI>
    </ul>
 <LI>GeoGames  
    <ul>
-     <LI><a href="https://tbaker.com/geogames/">Dead zones: Zombie Escape USA</a>
+     <LI><a href="https://tbaker.com/geogames/">Dead zones: Zombie Escape USA</a></LI>
         <ul>
-     <LI>Oregon Trail 3D
-     <LI>California Trail: Gold Rush
+     <LI>Oregon Trail 3D</LI>
+     <LI>California Trail: Gold Rush</LI>
         </ul>
-     <LI><a href="https://trbaker.github.io/GISopoly/">GISopoly</a>
+     <LI><a href="https://trbaker.github.io/GISopoly/">GISopoly</a></LI>
    </ul>
    
 <LI>AI-generated classroom curricula samples
-     - <a href="https://trbaker.github.io/curriculum_samples/aphg_chapter1.html">APHG Unit 1: Geographic Thinking</a> - written by Claude.ai, Sonat 4.6 (Mary 2026)   
+   <ul>
+     <LI><a href="https://trbaker.github.io/curriculum_samples/aphg_chapter1.html">APHG Unit 1: Geographic Thinking</a> - written by Claude.ai, Sonat 4.6 (Mary 2026)</LI>
+   </ul>
 
 <LI>GPX/CSV to map
    <ul>
-     <LI><a href="/data_vibe/arcgis-publisher.html">Publish a feature service from a CSV/GPX</a>
-     <LI><a href="/Atlas_Vibe/geo-sketch-viewer.html">GPS data to MapMaker sketch</a>
+     <LI><a href="/data_vibe/arcgis-publisher.html">Publish a feature service from a CSV/GPX</a></li>
+     <LI><a href="/Atlas_Vibe/geo-sketch-viewer.html">GPS data to MapMaker sketch</a></LI>
    </ul>
 
 <LI>Atlas-MapMaker 
    <ul>
-     <LI><a href="/Atlas_Vibe/mapmaker-tagger.html">MapMaker Map Tagger</a>
-     <LI><a href="/Atlas_Vibe/atlas-creator.html">Schools Atlas Creator</a>
-     <LI><a href="/Atlas_Vibe/geo-sketch-viewer.html">GPS data to MapMaker sketch</a>
-     <LI><a href="/Atlas_Vibe/mapmaker-gallery.html">Schools Living Atlas Explorer</a>
+     <LI><a href="/Atlas_Vibe/mapmaker-tagger.html">MapMaker Map Tagger</a></LI>
+     <LI><a href="/Atlas_Vibe/atlas-creator.html">Schools Atlas Creator</a></LI>
+     <LI><a href="/Atlas_Vibe/geo-sketch-viewer.html">GPS data to MapMaker sketch</a></LI>
+     <LI><a href="/Atlas_Vibe/mapmaker-gallery.html">Schools Living Atlas Explorer</a></LI>
    </ul>
 
 <LI>Other apps
    <ul>
-     <LI><a href="/20260508_map/geotag-explorer.html">Image geotag reviewer</a>
-     <LI><a href="/20260508_map/test1/spreadsheet-map-viewer.html">Basic spreadsheet mapper</a>
-     </LI>
+     <LI><a href="/20260508_map/geotag-explorer.html">Image geotag reviewer</a></LI>
+     <LI><a href="/20260508_map/test1/spreadsheet-map-viewer.html">Basic spreadsheet mapper</a></LI>
    </ul>
    
 </ul>
