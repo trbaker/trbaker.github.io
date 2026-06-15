@@ -25,7 +25,8 @@
 <LI>Image work</LI>
 <ul>
    <LI><a href="/imageTools/editor.html" target="new">Web-based image editor</a></LI>
-   <LI><a href="/360" target="new">360 degree image tools</a></LI>
+   <LI><a href="https://trbaker.github.io/360/360.html" target="new">360 degree image renderer</a> - useful for displaying 360 iages in other platforms, like StoryMaps)</LI>
+   <LI><a href="https://trbaker.github.io/360/360-tour.html" target="new">360 degree image tour</a> - useful for displaying 360 iages in other platforms, like StoryMaps)</LI>
    <LI><a href="/20260508_map/geotag-explorer.html" target="new">Image geotag explorer</a></LI>
 </ul>
    
