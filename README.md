@@ -2,10 +2,12 @@
 https://trbaker.github.io 
 <ul>
 <LI>Tools for exuberant teachers
-   - <a href="/GIStandards">GIS in US K12 Standards</a>
-   - <a href="https://esriurl.com/geoquests" target="new">GeoQuests</a>: combine maps, storymaps, and quizzes for students
-   - Linking <a href="https://k12.maps.arcgis.com/home/item.html?id=9f1ca54b4cc944d9b410d2879f948bbd" target="new">map markers to 360 VR YouTube videos</a> (probably outdated)  
-
+   <ul>
+   <LI><a href="/GIStandards">GIS in US K12 Standards</a>
+   <LI><a href="https://esriurl.com/geoquests" target="new">GeoQuests</a>: combine maps, storymaps, and quizzes for students
+   <LI>Linking <a href="https://k12.maps.arcgis.com/home/item.html?id=9f1ca54b4cc944d9b410d2879f948bbd" target="new">map markers to 360 VR YouTube videos</a> (probably outdated)  
+   </ul>
+   
 <LI>Apps for Classroom
     - <a href="https://trbaker.github.io/buildAPark/">Build A Park</a>
 
