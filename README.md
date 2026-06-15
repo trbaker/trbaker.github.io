@@ -16,7 +16,12 @@
    - - 360 image tour
      - 360 image</a> - uses a link to image rather than requireing image upload to StoryMaps
        
-
+- Images
+   - <a href="swipe.html">Embeddable image swipe</a>
+   - <a href="editor.html">Web-based image editor</a>
+   - <a href="/360">360 degree image tools</a>
+   - <a href="/20260508_map/geotag-explorer.html">Image geotag explorer</a>
+   
 - Learning games
      - <a href="/learning_games_kindergarten/">Kindergarten</a>
 
