@@ -9,25 +9,33 @@ https://trbaker.github.io
    </ul>
    
 <LI>Apps for Classroom
-    - <a href="https://trbaker.github.io/buildAPark/">Build A Park</a>
+   <ul>
+   <LI><a href="https://trbaker.github.io/buildAPark/">Build A Park</a>
+   </ul>
 
 <LI>StoryMap utilities
-   - <a target="new" href="/vibe/storymap-readability.html">ArcGIS StoryMap readability scoring (2026 update!)</a>
-   - <a href="https://arcgis-storymap-briefing-converter.onrender.com/" target="new">Powerpoint to StoryMap converter</a>
-   - 3D objects and images in Storymaps (<a href="https://storymaps.arcgis.com/stories/573f0c70aefa446eb0eb71ab6602b1e0" target="new">sample</a>)
-   - Widgets
+<ul>
+   <LI><a target="new" href="/vibe/storymap-readability.html">ArcGIS StoryMap readability scoring (2026 update!)</a>
+   <LI><a href="https://arcgis-storymap-briefing-converter.onrender.com/" target="new">Powerpoint to StoryMap converter</a>
+   <LI>3D objects and images in Storymaps (<a href="https://storymaps.arcgis.com/stories/573f0c70aefa446eb0eb71ab6602b1e0" target="new">sample</a>)
+   <LI>Widgets
    - - <a href="/360" target="new">360 image tour</a> - Use with embed widgt in StoryMaps
    - - <a href="/360" target="new">360 image renderer</a> -  Use with embed widgt in StoryMaps; uses a link to image rather than requireing image upload to StoryMaps
    - - <a href="/imageTools/swipe.html" target="new">Embeddable image swipe</a>
-       
-<LI>Images
-   - <a href="/imageTools/editor.html" target="new">Web-based image editor</a>
-   - <a href="/360" target="new">360 degree image tools</a>
-   - <a href="/20260508_map/geotag-explorer.html" target="new">Image geotag explorer</a>
-   
-<LI>Learning games
-     - <a href="/learning_games_kindergarten/" target="new">Kindergarten</a>
+   </ul>
 
+         
+<LI>Images
+<ul>
+   <LI><a href="/imageTools/editor.html" target="new">Web-based image editor</a>
+   <LI><a href="/360" target="new">360 degree image tools</a>
+   <LI><a href="/20260508_map/geotag-explorer.html" target="new">Image geotag explorer</a>
+</ul>
+<LI>Learning games
+<ul>
+   <LI><a href="/learning_games_kindergarten/" target="new">Kindergarten</a>
+   </ul>
+   
 <LI>GeoGames     
      - <a href="https://tbaker.com/geogames/">Dead zones: Zombie Escape USA</a>
      - - Oregon Trail 3D
