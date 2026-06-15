@@ -24,7 +24,7 @@
 </ul>
 <LI>Images
 <ul>
-   <LI><a href="/imageTools/editor.html" target="new">Web-based image editor</a>
+   <LI><a href="/imageTools/editor.html" target="new">Web-based image editor</a></LI>
    <LI><a href="/360" target="new">360 degree image tools</a></LI>
    <LI><a href="/20260508_map/geotag-explorer.html" target="new">Image geotag explorer</a></LI>
 </ul>
