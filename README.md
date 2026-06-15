@@ -1,15 +1,15 @@
-## https://trbaker.github.io   - v.2
+## https://trbaker.github.io   - v.3
 <ul>
 <LI>Tools for teachers
    <ul>
    <LI><a href="/GIStandards">GIS in US K12 Standards</a>
    <LI><a href="https://esriurl.com/geoquests" target="new">GeoQuests</a>: combine maps, storymaps, and quizzes for students
-   <LI>Linking <a href="https://k12.maps.arcgis.com/home/item.html?id=9f1ca54b4cc944d9b410d2879f948bbd" target="new">map markers to 360 VR YouTube videos</a> (probably outdated)  </LI>
+   <LI>Linking <a href="https://k12.maps.arcgis.com/home/item.html?id=9f1ca54b4cc944d9b410d2879f948bbd" target="new">map markers to 360 VR YouTube videos</a> - probably outdated  </LI>
    </ul>
    
 <LI>Apps for Classroom
    <ul>
-   <LI><a href="https://trbaker.github.io/buildAPark/">Build A Park</a> </LI>
+   <LI><a target="new" href="https://trbaker.github.io/buildAPark/">Build A Park</a> </LI>
    </ul>
 
 <LI>StoryMap utilities
@@ -20,47 +20,57 @@
    <LI>Widgets</LI>
    <ul>
    <LI><a href="/360" target="new">360 image tour</a> - Use with embed widgt in StoryMaps
-   - - <a href="/360" target="new">360 image renderer</a> -  Use with embed widgt in StoryMaps; uses a link to image rather than requireing image upload to StoryMaps
-   - - <a href="/imageTools/swipe.html" target="new">Embeddable image swipe</a></LI>
+   <LI><a href="/360" target="new">360 image renderer</a> -  Use with embed widgt in StoryMaps; uses a link to image rather than requireing image upload to StoryMaps
+   <LI><a href="/imageTools/swipe.html" target="new">Embeddable image swipe</a></LI>
    </ul>
    </ul>
 
-         
 <LI>Images
 <ul>
    <LI><a href="/imageTools/editor.html" target="new">Web-based image editor</a>
    <LI><a href="/360" target="new">360 degree image tools</a>
-   <LI><a href="/20260508_map/geotag-explorer.html" target="new">Image geotag explorer</a>
+   <LI><a href="/20260508_map/geotag-explorer.html" target="new">Image geotag explorer</a></LI>
 </ul>
+   
 <LI>Learning games
 <ul>
-   <LI><a href="/learning_games_kindergarten/" target="new">Kindergarten</a>
+   <LI><a href="/learning_games_kindergarten/" target="new">Kindergarten</a></LI>
    </ul>
    
-<LI>GeoGames     
-     - <a href="https://tbaker.com/geogames/">Dead zones: Zombie Escape USA</a>
-     - - Oregon Trail 3D
-     - - California Trail: Gold Rush
-     - <a href="https://trbaker.github.io/GISopoly/">GISopoly</a>
-     
+<LI>GeoGames  
+   <ul>
+     <LI><a href="https://tbaker.com/geogames/">Dead zones: Zombie Escape USA</a>
+        <ul>
+     <LI>Oregon Trail 3D
+     <LI>California Trail: Gold Rush
+        </ul>
+     <LI><a href="https://trbaker.github.io/GISopoly/">GISopoly</a>
+   </ul>
+   
 <LI>AI-generated classroom curricula samples
      - <a href="https://trbaker.github.io/curriculum_samples/aphg_chapter1.html">APHG Unit 1: Geographic Thinking</a> - written by Claude.ai, Sonat 4.6 (Mary 2026)   
 
 <LI>GPX/CSV to map
-     - <a href="/data_vibe/arcgis-publisher.html">Publish a feature service from a CSV/GPX</a>
-     - <a href="/Atlas_Vibe/geo-sketch-viewer.html">GPS data to MapMaker sketch</a>
+   <ul>
+     <LI><a href="/data_vibe/arcgis-publisher.html">Publish a feature service from a CSV/GPX</a>
+     <LI><a href="/Atlas_Vibe/geo-sketch-viewer.html">GPS data to MapMaker sketch</a>
+   </ul>
 
 <LI>Atlas-MapMaker 
-     - <a href="/Atlas_Vibe/mapmaker-tagger.html">MapMaker Map Tagger</a>
-     - <a href="/Atlas_Vibe/atlas-creator.html">Schools Atlas Creator</a>
-     - <a href="/Atlas_Vibe/geo-sketch-viewer.html">GPS data to MapMaker sketch</a>
-     - <a href="/Atlas_Vibe/mapmaker-gallery.html">Schools Living Atlas Explorer</a>
-
+   <ul>
+     <LI><a href="/Atlas_Vibe/mapmaker-tagger.html">MapMaker Map Tagger</a>
+     <LI><a href="/Atlas_Vibe/atlas-creator.html">Schools Atlas Creator</a>
+     <LI><a href="/Atlas_Vibe/geo-sketch-viewer.html">GPS data to MapMaker sketch</a>
+     <LI><a href="/Atlas_Vibe/mapmaker-gallery.html">Schools Living Atlas Explorer</a>
+   </ul>
 
 <LI>Other apps
-     - <a href="/20260508_map/geotag-explorer.html">Image geotag reviewer</a>
-     - <a href="/20260508_map/test1/spreadsheet-map-viewer.html">Basic spreadsheet mapper</a>
-
+   <ul>
+     <LI><a href="/20260508_map/geotag-explorer.html">Image geotag reviewer</a>
+     <LI><a href="/20260508_map/test1/spreadsheet-map-viewer.html">Basic spreadsheet mapper</a>
+     </LI>
+   </ul>
+   
 </ul>
 
       
