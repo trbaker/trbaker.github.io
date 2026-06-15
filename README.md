@@ -22,6 +22,7 @@
    <LI><a href="/360" target="new">360 image tour</a> - Use with embed widgt in StoryMaps</LI>
    <LI><a href="/360" target="new">360 image renderer</a> -  Use with embed widgt in StoryMaps; uses a link to image rather than requireing image upload to StoryMaps</LI>
    <LI><a href="/imageTools/swipe.html" target="new">Embeddable image swipe</a></LI>
+   <LI><a href="" target="new">3D object renderer</a></LI>
    </ul>
 </ul>
 <LI>Image work</LI>
