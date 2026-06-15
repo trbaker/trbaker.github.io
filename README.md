@@ -5,10 +5,12 @@
    <LI><a href="/GIStandards">GIS in US K12 Standards</a></LI>
    <LI><a href="https://esriurl.com/geoquests" target="new">GeoQuests</a>: combine maps, storymaps, and quizzes for students</LI>
    <LI>Linking <a href="https://k12.maps.arcgis.com/home/item.html?id=9f1ca54b4cc944d9b410d2879f948bbd" target="new">map markers to 360 VR YouTube videos</a> - probably outdated</LI>
+      <li><a href="https://trbaker.github.io/AGO-clone/" target="new">ArcGIS Online User Clone</a> (experimental)</li>
 </ul>
 <LI>Apps for Classroom</LI>
    <ul>
    <LI><a target="new" href="https://trbaker.github.io/buildAPark/">Build A Park</a> </LI>
+      <li><a href="https://trbaker.github.io/Map_Explorers/" target="new">Map Explorers</a> - a digital map tool for elementary students</li>
    </ul>
 <LI>StoryMap utilities</LI>
 <ul>
