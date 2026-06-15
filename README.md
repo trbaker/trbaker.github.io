@@ -23,6 +23,7 @@
    <LI><a href="/360" target="new">360 image renderer</a> -  Use with embed widgt in StoryMaps; uses a link to image rather than requireing image upload to StoryMaps</LI>
    <LI><a href="/imageTools/swipe.html" target="new">Embeddable image swipe</a></LI>
    <LI><a href="https://trbaker.github.io/3d_object_viewer/" target="new">3D object viewer</a> - creates a link for use in  StoryMaps embed widget</LI>
+      <LI><a target="new" href="https://trbaker.github.io/polls/create.html">Public poll widget</a></LI>
    </ul>
 </ul>
 <LI>Image work</LI>
