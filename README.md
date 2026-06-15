@@ -6,12 +6,10 @@
    <LI><a href="https://esriurl.com/geoquests" target="new">GeoQuests</a>: combine maps, storymaps, and quizzes for students</LI>
    <LI>Linking <a href="https://k12.maps.arcgis.com/home/item.html?id=9f1ca54b4cc944d9b410d2879f948bbd" target="new">map markers to 360 VR YouTube videos</a> - probably outdated</LI>
 </ul>
-   
 <LI>Apps for Classroom
    <ul>
    <LI><a target="new" href="https://trbaker.github.io/buildAPark/">Build A Park</a> </LI>
    </ul>
-
 <LI>StoryMap utilities
 <ul>
    <LI><a target="new" href="/vibe/storymap-readability.html">ArcGIS StoryMap readability scoring (2026 update!)</a></LI>
@@ -24,19 +22,16 @@
    <LI><a href="/imageTools/swipe.html" target="new">Embeddable image swipe</a></LI>
    </ul>
 </ul>
-
 <LI>Images
 <ul>
    <LI><a href="/imageTools/editor.html" target="new">Web-based image editor</a>
    <LI><a href="/360" target="new">360 degree image tools</a>
    <LI><a href="/20260508_map/geotag-explorer.html" target="new">Image geotag explorer</a></LI>
 </ul>
-   
 <LI>Learning games
 <ul>
    <LI><a href="/learning_games_kindergarten/" target="new">Kindergarten</a></LI>
    </ul>
-   
 <LI>GeoGames  
    <ul>
      <LI><a href="https://tbaker.com/geogames/">Dead zones: Zombie Escape USA</a>
