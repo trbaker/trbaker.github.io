@@ -1,7 +1,7 @@
 ## Tom R. Baker, Esri Education
 https://trbaker.github.io 
 <ul>
-<LI>Tools for exuberant teachers
+<LI>Tools for teachers
    <ul>
    <LI><a href="/GIStandards">GIS in US K12 Standards</a>
    <LI><a href="https://esriurl.com/geoquests" target="new">GeoQuests</a>: combine maps, storymaps, and quizzes for students
