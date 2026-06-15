@@ -2,9 +2,9 @@
 <ul>
 <LI>Tools for teachers
    <ul>
-   <LI><a href="/GIStandards">GIS in US K12 Standards</a>
-   <LI><a href="https://esriurl.com/geoquests" target="new">GeoQuests</a>: combine maps, storymaps, and quizzes for students
-   <LI>Linking <a href="https://k12.maps.arcgis.com/home/item.html?id=9f1ca54b4cc944d9b410d2879f948bbd" target="new">map markers to 360 VR YouTube videos</a> - probably outdated  </LI>
+   <LI><a href="/GIStandards">GIS in US K12 Standards</a></LI>
+   <LI><a href="https://esriurl.com/geoquests" target="new">GeoQuests</a>: combine maps, storymaps, and quizzes for students</LI>
+   <LI>Linking <a href="https://k12.maps.arcgis.com/home/item.html?id=9f1ca54b4cc944d9b410d2879f948bbd" target="new">map markers to 360 VR YouTube videos</a> - probably outdated</LI>
 </ul>
    
 <LI>Apps for Classroom
@@ -14,16 +14,16 @@
 
 <LI>StoryMap utilities
 <ul>
-   <LI><a target="new" href="/vibe/storymap-readability.html">ArcGIS StoryMap readability scoring (2026 update!)</a>
-   <LI><a href="https://arcgis-storymap-briefing-converter.onrender.com/" target="new">Powerpoint to StoryMap converter</a>
-   <LI>3D objects and images in Storymaps (<a href="https://storymaps.arcgis.com/stories/573f0c70aefa446eb0eb71ab6602b1e0" target="new">sample</a>)
+   <LI><a target="new" href="/vibe/storymap-readability.html">ArcGIS StoryMap readability scoring (2026 update!)</a></LI>
+   <LI><a href="https://arcgis-storymap-briefing-converter.onrender.com/" target="new">Powerpoint to StoryMap converter</a></LI>
+   <LI>3D objects and images in Storymaps (<a href="https://storymaps.arcgis.com/stories/573f0c70aefa446eb0eb71ab6602b1e0" target="new">sample</a>)</LI>
    <LI>Widgets</LI>
    <ul>
-   <LI><a href="/360" target="new">360 image tour</a> - Use with embed widgt in StoryMaps
-   <LI><a href="/360" target="new">360 image renderer</a> -  Use with embed widgt in StoryMaps; uses a link to image rather than requireing image upload to StoryMaps
+   <LI><a href="/360" target="new">360 image tour</a> - Use with embed widgt in StoryMaps</LI>
+   <LI><a href="/360" target="new">360 image renderer</a> -  Use with embed widgt in StoryMaps; uses a link to image rather than requireing image upload to StoryMaps</LI>
    <LI><a href="/imageTools/swipe.html" target="new">Embeddable image swipe</a></LI>
    </ul>
-   </ul>
+</ul>
 
 <LI>Images
 <ul>
