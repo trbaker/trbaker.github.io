@@ -1,4 +1,3 @@
-## Tom R. Baker, Esri Education
 https://trbaker.github.io 
 <ul>
 <LI>Tools for teachers
