@@ -1,16 +1,16 @@
 ## https://trbaker.github.io   - v.6
 <ul>
-<LI>Tools for teachers
+<LI>Tools for teachers</LI>
    <ul>
    <LI><a href="/GIStandards">GIS in US K12 Standards</a></LI>
    <LI><a href="https://esriurl.com/geoquests" target="new">GeoQuests</a>: combine maps, storymaps, and quizzes for students</LI>
    <LI>Linking <a href="https://k12.maps.arcgis.com/home/item.html?id=9f1ca54b4cc944d9b410d2879f948bbd" target="new">map markers to 360 VR YouTube videos</a> - probably outdated</LI>
 </ul>
-<LI>Apps for Classroom
+<LI>Apps for Classroom</LI>
    <ul>
    <LI><a target="new" href="https://trbaker.github.io/buildAPark/">Build A Park</a> </LI>
    </ul>
-<LI>StoryMap utilities
+<LI>StoryMap utilities</LI>
 <ul>
    <LI><a target="new" href="/vibe/storymap-readability.html">ArcGIS StoryMap readability scoring (2026 update!)</a></LI>
    <LI><a href="https://arcgis-storymap-briefing-converter.onrender.com/" target="new">Powerpoint to StoryMap converter</a></LI>
@@ -22,18 +22,18 @@
    <LI><a href="/imageTools/swipe.html" target="new">Embeddable image swipe</a></LI>
    </ul>
 </ul>
-<LI>Images
+<LI>Image work</LI>
 <ul>
    <LI><a href="/imageTools/editor.html" target="new">Web-based image editor</a></LI>
    <LI><a href="/360" target="new">360 degree image tools</a></LI>
    <LI><a href="/20260508_map/geotag-explorer.html" target="new">Image geotag explorer</a></LI>
 </ul>
    
-<LI>Learning games
+<LI>Learning games</LI>
 <ul>
    <LI><a href="/learning_games_kindergarten/" target="new">Kindergarten</a></LI>
    </ul>
-<LI>GeoGames  
+<LI>GeoGames</LI>  
    <ul>
      <LI><a href="https://tbaker.com/geogames/">Dead zones: Zombie Escape USA</a></LI>
         <ul>
@@ -43,18 +43,18 @@
      <LI><a href="https://trbaker.github.io/GISopoly/">GISopoly</a></LI>
    </ul>
    
-<LI>AI-generated classroom curricula samples
+<LI>AI-generated classroom curricula samples</LI>
    <ul>
      <LI><a href="https://trbaker.github.io/curriculum_samples/aphg_chapter1.html">APHG Unit 1: Geographic Thinking</a> - written by Claude.ai, Sonat 4.6 (Mary 2026)</LI>
    </ul>
 
-<LI>GPX/CSV to map
+<LI>GPX/CSV to map</LI>
    <ul>
      <LI><a href="/data_vibe/arcgis-publisher.html">Publish a feature service from a CSV/GPX</a></li>
      <LI><a href="/Atlas_Vibe/geo-sketch-viewer.html">GPS data to MapMaker sketch</a></LI>
    </ul>
 
-<LI>Atlas-MapMaker 
+<LI>ArcGIS Atlas or National Geographic MapMaker</LI>
    <ul>
      <LI><a href="/Atlas_Vibe/mapmaker-tagger.html">MapMaker Map Tagger</a></LI>
      <LI><a href="/Atlas_Vibe/atlas-creator.html">Schools Atlas Creator</a></LI>
@@ -62,7 +62,7 @@
      <LI><a href="/Atlas_Vibe/mapmaker-gallery.html">Schools Living Atlas Explorer</a></LI>
    </ul>
 
-<LI>Other apps
+<LI>Other apps</LI>
    <ul>
      <LI><a href="/20260508_map/geotag-explorer.html">Image geotag reviewer</a></LI>
      <LI><a href="/20260508_map/test1/spreadsheet-map-viewer.html">Basic spreadsheet mapper</a></LI>
