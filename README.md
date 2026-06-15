@@ -15,7 +15,7 @@ https://trbaker.github.io
    - 3D objects and images in Storymaps (<a href="https://storymaps.arcgis.com/stories/573f0c70aefa446eb0eb71ab6602b1e0" target="new">sample</a>)
    - Widgets
    - - <a href="/360">360 image tour</a> - Use with embed widgt in StoryMaps
-   - - 360 image</a> -  Use with embed widgt in StoryMaps; uses a link to image rather than requireing image upload to StoryMaps
+   - - <a href="/360">360 image renderer</a> -  Use with embed widgt in StoryMaps; uses a link to image rather than requireing image upload to StoryMaps
    - - <a href="/imageTools/swipe.html">Embeddable image swipe</a>
        
 - Images
@@ -28,6 +28,8 @@ https://trbaker.github.io
 
 - GeoGames     
      - <a href="https://tbaker.com/geogames/">Dead zones: Zombie Escape USA</a>
+     - - Oregon Trail 3D
+     - - California Trail: Gold Rush
      - <a href="https://trbaker.github.io/GISopoly/">GISopoly</a>
      
 - AI-generated classroom curricula samples
