@@ -2,19 +2,30 @@
 
 - Tools and applications hosted here, for exuberant teachers
    - <a href="/GIStandards">GIS in US K12 Standards</a>
-   - <a target="new" href="/vibe/storymap-readability.html">ArcGIS StoryMap readability scoring (2026 update!)</a>
    - 3D objects and images in Storymaps (<a href="https://storymaps.arcgis.com/stories/573f0c70aefa446eb0eb71ab6602b1e0" target="new">sample</a>)
    - <a href="https://esriurl.com/geoquests" target="new">GeoQuests</a>: combine maps, storymaps, and quizzes for students
    - Linking <a href="https://k12.maps.arcgis.com/home/item.html?id=9f1ca54b4cc944d9b410d2879f948bbd" target="new">map markers to 360 VR YouTube videos</a>   
 
 - Apps for Classroom
     - <a href="https://trbaker.github.io/buildAPark/">Build A Park</a>
-      
-- AI-generated classroom curricula samples
-     - <a href="https://trbaker.github.io/curriculum_samples/aphg_chapter1.html"APHG Unit 1: Geographic Thinking</a> - written by Claude.ai, Sonat 4.6 (Mary 2026)
 
-- Cloning ArcGIS Online content
-     - <a href="/cloning/" target="new">Clone a public ArcGIS Online item (legacy)</a>       
+- storyMap utilities
+   - <a target="new" href="/vibe/storymap-readability.html">ArcGIS StoryMap readability scoring (2026 update!)</a>
+   - <a href="" target="new">Powerpoint to StoryMap converter</a>
+   - Widgets
+   - - 360 image tour
+     - 360 image</a> - uses a link to image rather than requireing image upload to StoryMaps
+       
+
+- Learning games
+     - <a href="/learning_games_kindergarten/">Kindergarten</a>
+
+- GeoGames     
+     - <a href="https://tbaker.com/geogames/">Dead zones: Zombie Escape USA</a>
+     - <a href="https://trbaker.github.io/GISopoly/">GISopoly</a>
+     
+- AI-generated classroom curricula samples
+     - <a href="https://trbaker.github.io/curriculum_samples/aphg_chapter1.html">APHG Unit 1: Geographic Thinking</a> - written by Claude.ai, Sonat 4.6 (Mary 2026)   
 
 - GPX/CSV to map
      - <a href="/data_vibe/arcgis-publisher.html">Publish a feature service from a CSV/GPX</a>
@@ -32,9 +43,6 @@
      - <a href="/20260508_map/test1/spreadsheet-map-viewer.html">Basic spreadsheet mapper</a>
 
 
-- Learning games
-     - <a href="/learning_games_kindergarten/">Kindergarten</a>
-     - <a href="https://tbaker.com/geogames/">Dead zones: Zombie Escape USA</a>
 
       
 <br><br>
