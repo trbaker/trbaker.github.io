@@ -14,17 +14,17 @@ https://trbaker.github.io
    - <a href="https://arcgis-storymap-briefing-converter.onrender.com/" target="new">Powerpoint to StoryMap converter</a>
    - 3D objects and images in Storymaps (<a href="https://storymaps.arcgis.com/stories/573f0c70aefa446eb0eb71ab6602b1e0" target="new">sample</a>)
    - Widgets
-   - - <a href="/360">360 image tour</a> - Use with embed widgt in StoryMaps
-   - - <a href="/360">360 image renderer</a> -  Use with embed widgt in StoryMaps; uses a link to image rather than requireing image upload to StoryMaps
-   - - <a href="/imageTools/swipe.html">Embeddable image swipe</a>
+   - - <a href="/360" target="new">360 image tour</a> - Use with embed widgt in StoryMaps
+   - - <a href="/360" target="new">360 image renderer</a> -  Use with embed widgt in StoryMaps; uses a link to image rather than requireing image upload to StoryMaps
+   - - <a href="/imageTools/swipe.html" target="new">Embeddable image swipe</a>
        
 - Images
-   - <a href="/imageTools/editor.html">Web-based image editor</a>
-   - <a href="/360">360 degree image tools</a>
-   - <a href="/20260508_map/geotag-explorer.html">Image geotag explorer</a>
+   - <a href="/imageTools/editor.html" target="new">Web-based image editor</a>
+   - <a href="/360" target="new">360 degree image tools</a>
+   - <a href="/20260508_map/geotag-explorer.html" target="new">Image geotag explorer</a>
    
 - Learning games
-     - <a href="/learning_games_kindergarten/">Kindergarten</a>
+     - <a href="/learning_games_kindergarten/" target="new">Kindergarten</a>
 
 - GeoGames     
      - <a href="https://tbaker.com/geogames/">Dead zones: Zombie Escape USA</a>
