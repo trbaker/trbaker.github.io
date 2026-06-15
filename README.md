@@ -18,7 +18,7 @@
        
 - Images
    - <a href="swipe.html">Embeddable image swipe</a>
-   - <a href="editor.html">Web-based image editor</a>
+   - <a href="/imageTools/editor.html">Web-based image editor</a>
    - <a href="/360">360 degree image tools</a>
    - <a href="/20260508_map/geotag-explorer.html">Image geotag explorer</a>
    
