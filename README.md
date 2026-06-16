@@ -14,6 +14,7 @@
    </ul>
 <LI>StoryMap utilities</LI>
 <ul>
+   <LI><a target="new" href="https://geosnapper-geotools.hf.space/">StoryMap Reviewer</a> - a tool for annotation or grading storymaps</LI>
    <LI><a target="new" href="/vibe/storymap-readability.html">ArcGIS StoryMap readability scoring (2026 update!)</a></LI>
    <LI><a href="https://arcgis-storymap-briefing-converter.onrender.com/" target="new">Powerpoint to StoryMap converter</a></LI>
    <LI>3D objects and images in Storymaps (<a href="https://storymaps.arcgis.com/stories/573f0c70aefa446eb0eb71ab6602b1e0" target="new">sample</a>)</LI>
