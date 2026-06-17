@@ -12,7 +12,7 @@
    <LI><a target="new" href="https://trbaker.github.io/buildAPark/">Build A Park</a> </LI>
       <li><a href="https://trbaker.github.io/Map_Explorers/" target="new">Map Explorers</a> - a digital map tool for elementary students</li>
    </ul>
-<LI>StoryMap utilities</LI>
+<LI>StoryMap apps and widgets</LI>
 <ul>
    <LI><a target="new" href="https://geosnapper-geotools.hf.space/">StoryMap Reviewer</a> - a tool for annotation or grading storymaps</LI>
    <LI><a href="https://trbaker.github.io/storymaps4schools/" target="new">StoryMaps4schools</a></LI> - search tool for discovering K12 instructional content in storymaps
@@ -21,6 +21,7 @@
    <LI>3D objects and images in Storymaps (<a href="https://storymaps.arcgis.com/stories/573f0c70aefa446eb0eb71ab6602b1e0" target="new">sample</a>)</LI>
    <LI>Widgets</LI>
    <ul>
+      <LI><a href="https://github.com/trbaker/sketchPad">Sketch Pad</a></LI>
    <LI><a href="/360" target="new">360 image tour</a> - Use with embed widgt in StoryMaps</LI>
    <LI><a href="/360" target="new">360 image renderer</a> -  Use with embed widgt in StoryMaps; uses a link to image rather than requireing image upload to StoryMaps</LI>
    <LI><a href="/imageTools/swipe.html" target="new">Embeddable image swipe</a></LI>
